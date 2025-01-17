@@ -13,9 +13,9 @@ VIBE is an advanced AI assistant with autonomous learning capabilities, neural n
 
 ### 2. Interaction Modes
 - Text-to-Text: Traditional chat interface
-- Speech-to-Text: Voice input with text responses
-- Speech-to-Speech: Full voice interaction
-- File Analysis: Support for images, documents, audio, and video
+- Speech-to-Text (not fully implemented): Voice input with text responses
+- Speech-to-Speech  (not fully implemented): Full voice interaction
+- File Analysis  (not fully implemented): Support for images, documents, audio, and video
 
 ### 3. Advanced Memory System
 - Short-term and long-term memory
